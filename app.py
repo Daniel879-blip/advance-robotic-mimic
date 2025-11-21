@@ -6,7 +6,6 @@ import os
 from datetime import datetime
 import cv2
 import numpy as np
-import pyautogui
 import mss
 from pynput.mouse import Listener as MouseListener
 from pynput.keyboard import Listener as KeyboardListener
