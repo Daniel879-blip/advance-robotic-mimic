@@ -1,0 +1,6 @@
+streamlit
+pyautogui
+pynput
+mss
+opencv-python
+numpy
