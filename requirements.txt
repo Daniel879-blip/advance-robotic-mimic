@@ -1,6 +1,6 @@
 streamlit
 pyautogui
-pynput
+opencv-python-headless
 mss
 opencv-python
 numpy
